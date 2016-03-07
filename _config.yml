@@ -3,7 +3,6 @@ title: M-Lab
 email: support@measurementlab.net
 baseurl: "/m-lab.github.io"
 excerpt_separator: <!--more-->
-destination: "_site/m-lab.github.io"
 
 # Build settings
 permalink: "/blog/:title/"
